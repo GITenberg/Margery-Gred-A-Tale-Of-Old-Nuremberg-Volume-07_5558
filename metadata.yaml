@@ -1,5 +1,5 @@
 _repo: Margery-Gred-A-Tale-Of-Old-Nuremberg-Volume-07_5558
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   translator:
     agent_name: Bell, Clara
@@ -34,5 +34,6 @@ subjects:
 - !lcsh 'German fiction -- Translations into English'
 - !lcc 'PT'
 - !lcsh 'Nuremberg (Germany) -- Fiction'
+- GITenberg
 title: 'Margery (Gred): A Tale Of Old Nuremberg — Volume 07'
 url: http://www.gutenberg.org/ebooks/5558
